@@ -1,2 +1,2 @@
 # AssignmentBaiscPython
-Theory BasicPython 
+Some python term defintitions
